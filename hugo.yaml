@@ -1,0 +1,21 @@
+baseURL: "https://jaaronyang.github.io"
+languageCode: "en-us"
+title: "jaaronyang ~ %"
+copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+googleAnalytics: "G-ZM6JWZ3PEE"
+
+params:
+  profileMode:
+    enabled: true
+    title: "Aaron Yang"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/jaaronyang"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/jaaronyang/"
+    - name: "medium"
+      url: "https://medium.com/@jaaronyang"
