@@ -7,6 +7,10 @@ theme: "PaperMod"
 enableRobotsTXT: true
 googleAnalytics: "G-ZM6JWZ3PEE"
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   profileMode:
     enabled: true
